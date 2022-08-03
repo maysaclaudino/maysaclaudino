@@ -1,4 +1,4 @@
-## Hi, I'm Maysa! 👋
+## Hi, I'm Maysa!👋🏽
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysaclaudino&layout=compact&theme=nightowl" align="right">
 
