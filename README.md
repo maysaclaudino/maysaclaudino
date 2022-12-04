@@ -1,6 +1,6 @@
 ## Hi, I'm Maysa!👋🏽
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysaclaudino&layout=compact&theme=nightowl" align="right">
+<img src="https://github-readme-stats-maysaclaudino.vercel.app/api/top-langs/?username=maysaclaudino&layout=compact&theme=nightowl" align="right">
 
 - I'm a 1st-year undergraduate brazilian student at the University of São Paulo, pursuing a bachelor in Computer Science.
 
